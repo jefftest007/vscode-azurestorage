@@ -1,4 +1,4 @@
-steps:
+collectassets steps:
 - task: NodeTool@0
   displayName: 'Use Node'
   inputs:
